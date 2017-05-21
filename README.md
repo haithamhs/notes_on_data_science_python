@@ -9,3 +9,11 @@ In this repo, I will try to document some good stuff that I found in the interne
 
 * [hypertools](https://github.com/ContextLab/hypertools) 
     * A python toolbox for visualizing and manipulating high-dimensional data
+
+* [Altair](https://github.com/altair-viz/altair)
+    * Declarative statistical visualization library for Python
+
+
+
+## I'm trying to clarify some concepts documented in Jupyter notebooks
+
