@@ -17,5 +17,5 @@ In this repo, I will try to document some good stuff that I found in the interne
 
 ## I'm trying to clarify some concepts documented in Jupyter notebooks
 
-* [Numpy Pandas 1D to 2D array](notes_on_data_science_python/notebooks/Numpy_Pandas_1D_array_to_2D_array .ipynb)
+* [Numpy Pandas 1D to 2D array](notes_on_data_science_python/notebooks/Numpy_Pandas_1D_array_to_2D_array.ipynb)
 
