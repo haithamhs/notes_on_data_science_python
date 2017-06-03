@@ -25,3 +25,4 @@ In this repo, I will try to document some good stuff that I found in the interne
 
 * [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
     * Starting point to understand __matplotlib__ 
+    * [my try notebook](https://github.com/haithamhs/notes_on_data_science_python/blob/master/notebooks/my_practice_.ipynb)
