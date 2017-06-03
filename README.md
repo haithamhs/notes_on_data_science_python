@@ -19,3 +19,9 @@ In this repo, I will try to document some good stuff that I found in the interne
 
 * [Numpy Pandas 1D to 2D array](https://github.com/haithamhs/notes_on_data_science_python/blob/master/notebooks/Numpy_Pandas_1D_array_to_2D_array.ipynb)
 
+
+
+## Good Read about Python 
+
+* [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
+    * Starting point to understand __matplotlib__ 
